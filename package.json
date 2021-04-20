@@ -1,0 +1,24 @@
+{
+	"name": "may-mayhem-2021",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"cypress:open": "cypress open"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/nisheed2440/may-mayhem-2021.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/nisheed2440/may-mayhem-2021/issues"
+	},
+	"homepage": "https://github.com/nisheed2440/may-mayhem-2021#readme",
+	"devDependencies": {
+		"cypress": "^7.1.0"
+	}
+}
